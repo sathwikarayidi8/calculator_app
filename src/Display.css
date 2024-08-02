@@ -1,0 +1,16 @@
+/* src/Display.css */
+.display {
+     margin-bottom: 20px;
+   }
+   
+   .input {
+     font-size: 24px;
+     height: 40px;
+     border-bottom: 1px solid #ccc;
+   }
+   
+   .result {
+     font-size: 32px;
+     color: #077021;
+   }
+    
